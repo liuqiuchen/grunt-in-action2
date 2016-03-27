@@ -1,0 +1,1 @@
+console.log('I am main');console.log('I am mygrunt');console.log('I am script')
